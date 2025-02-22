@@ -27,6 +27,7 @@ int main()
     myclass n;
     n.set_ab(3,4);// function call
     cout<<sum(n);// friend function call without create object
-    return 0;
+
+    return 0;
 
 }
